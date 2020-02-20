@@ -1,0 +1,1 @@
+node /home/pi/IPtoFirebase/sendIP.js
